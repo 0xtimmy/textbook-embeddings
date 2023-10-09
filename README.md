@@ -33,3 +33,8 @@ Install python packages:
 ```
 pip install -r requirements.txt
 ```
+
+# References
+[Qdrant](https://github.com/qdrant/qdrant)
+[Unstructured.io](https://github.com/Unstructured-IO/unstructured)
+[SentenceTransformers](https://huggingface.co/sentence-transformers/multi-qa-MiniLM-L6-cos-v1)
