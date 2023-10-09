@@ -1,6 +1,7 @@
 # Textbook Embeddings
 
-This repo uses AI to help you smart search your textbooks using question answer.
+Use AI to smart-search your textbooks using Q/A!
+![Example Usage](https://raw.githubusercontent.com/0xtimmy/textbook-embeddings/master/Screenshot.png) 
 
 # Usage
 
@@ -36,5 +37,7 @@ pip install -r requirements.txt
 
 # References
 [Qdrant](https://github.com/qdrant/qdrant)
+
 [Unstructured.io](https://github.com/Unstructured-IO/unstructured)
+
 [SentenceTransformers](https://huggingface.co/sentence-transformers/multi-qa-MiniLM-L6-cos-v1)
