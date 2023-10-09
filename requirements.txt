@@ -1,3 +1,6 @@
 unstructured
 sentence_transformers
 qdrant_client
+uuid
+tqdm
+argparse

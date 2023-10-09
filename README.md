@@ -28,3 +28,8 @@ Install submodules:
 ```
 git submodule update --init --recursive
 ```
+
+Install python packages:
+```
+pip install -r requirements.txt
+```
