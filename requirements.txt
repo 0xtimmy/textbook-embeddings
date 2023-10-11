@@ -1,4 +1,4 @@
-unstructured
+unstructured==0.7.12
 sentence_transformers
 qdrant_client
 uuid
